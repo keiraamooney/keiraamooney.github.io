@@ -61,6 +61,11 @@ h1, h2, h3 {
 h1 {
 	font-size:150%;
 	text-transform:uppercase;
+	color: rgba(56,154,255,1.00)
+}
+
+h2 {
+	color: rgba(123,186,252,1.00);
 }
 
 header h1 {
@@ -84,8 +89,7 @@ li {
 
 a {
 	text-decoration:none;
-	color:#045685;
-}
+	color:rgba(123,186,252,1.00);
 
 a:hover {
 	text-decoration:underline;
